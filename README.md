@@ -22,7 +22,7 @@ Inspired by dimensional algorithms used in NLP, as one often uses vector space m
   - Construct a wide range of factors including Market Capitalization, 24h volume, long-short ratio, OI volume, funding rate, price std correlated to Bitcoin, Liquidity Levels etc
   - Use Euclidean distance / Cosine Similarity (essentially similar) to explore correlated pairs
   - Apply PCA to highlight the most important factors
-  - K-nearest neighbors, hash tables, etc?
+  - K-nearest neighbors, locality sensitivity hashing, etc.
   - TBD
 
 ### 2. Mean Reversion
